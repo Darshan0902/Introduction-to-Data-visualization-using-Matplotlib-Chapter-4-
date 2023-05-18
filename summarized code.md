@@ -37,3 +37,15 @@ plt.show()
 2 Save the figure into the file my_figure.png, using the default resolution.
 
 3 Save the figure into the file my_figure_300dpi.png and set the resolution to 300 dp
+
+```
+# 1 Show the figure
+plt.show()
+
+# 2 Save as a PNG file
+fig.savefig('my_figure.png')
+
+# 3  Save as a PNG file with 300 dpi
+fig.savefig("my_figure_300dpi.png",dpi=300)
+
+```
