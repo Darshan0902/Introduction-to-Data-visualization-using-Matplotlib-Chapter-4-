@@ -91,3 +91,8 @@ sports = summer_2016_medals["Sport"].unique()
 print(sports)
 ```
 
+<h2> Automate your visualization
+</h2>
+
+
+
