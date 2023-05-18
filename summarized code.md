@@ -31,3 +31,9 @@ ax.plot(austin_weather["MONTH"], austin_weather["MLY-TAVG-NORMAL"])
 plt.show()
 
 ```
+<h1> Saving a file several times : </h1>
+1 Examine the figure by calling the plt.show() function.
+
+2 Save the figure into the file my_figure.png, using the default resolution.
+
+3 Save the figure into the file my_figure_300dpi.png and set the resolution to 300 dp
