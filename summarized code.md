@@ -94,5 +94,7 @@ print(sports)
 <h2> Automate your visualization
 </h2>
 
+<h3> INSTRUCTIONS : </h2>
+
 
 
