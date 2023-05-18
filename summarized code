@@ -1,2 +1,11 @@
  # Switching between styles
 
+<h2> Importing essential libraries : </h2>
+
+```
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+import numpy as np
+
+```
