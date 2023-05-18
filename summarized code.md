@@ -1,6 +1,6 @@
- # Switching between styles
+ #Switching between styles
 
-<h2> Importing essential libraries : </h2>
+<h3> Importing essential libraries </h3> :
 
 ```
 import matplotlib.pyplot as plt
