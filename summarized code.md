@@ -1,4 +1,4 @@
- #Switching between styles
+ # SWith
 
 <h3> Importing essential libraries </h3> :
 
