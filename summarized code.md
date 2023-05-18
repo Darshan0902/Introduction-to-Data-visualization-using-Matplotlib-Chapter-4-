@@ -49,3 +49,6 @@ fig.savefig('my_figure.png')
 fig.savefig("my_figure_300dpi.png",dpi=300)
 
 ```
+<h2> Save a figure with different sizes
+</h2>
+
