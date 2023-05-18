@@ -96,5 +96,8 @@ print(sports)
 
 <h3> INSTRUCTIONS : </h2>
 
-
+Iterate over the values of sports setting sport as your loop variable.
+In each iteration, extract the rows where the "Sport" column is equal to sport.
+Add a bar to the provided ax object, labeled with the sport name, with the mean of the "Weight" column as its height, and the standard deviation as a y-axis error bar.
+Save the figure into the file "sports_weights.png".
 
